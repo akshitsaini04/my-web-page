@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sample Web Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Sample Web Page</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About This Page</h2>
+            <p>This is a simple web page created to demonstrate the use of semantic tags, lists, images, and external links.</p>
+        </section>
+
+        <section>
+            <h2>My Favorite Animals</h2>
+            <ul>
+                <li>Dogs</li>
+                <li>Cats</li>
+                <li>Elephants</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Images of My Favorite Animals</h2>
+            <figure>
+                <img src="https://example.com/dog.jpg" alt="Dog" width="300">
+                <figcaption>A cute dog</figcaption>
+            </figure>
+            <figure>
+                <img src="https://example.com/cat.jpg" alt="Cat" width="300">
+                <figcaption>A curious cat</figcaption>
+            </figure>
+            <figure>
+                <img src="https://example.com/elephant.jpg" alt="Elephant" width="300">
+                <figcaption>An amazing elephant</figcaption>
+            </figure>
+        </section>
+
+        <section>
+            <h2>Learn More</h2>
+            <p>For more information on animals, visit <a href="https://www.nationalgeographic.com/animals/" target="_blank">National Geographic Animals</a>.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Sample Web Page</p>
+    </footer>
+
+</body>
+</html>
